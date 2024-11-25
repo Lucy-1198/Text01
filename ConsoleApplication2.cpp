@@ -3,6 +3,7 @@
 
 #include <iostream>
 NENT
+start
 int main()
 {
     std::cout << "Hello World!\n";
